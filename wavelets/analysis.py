@@ -6,7 +6,7 @@ import numpy as np
 
 # from mpl_toolkits.axes_grid1 import make_axes_locatable
 
-from waveletFunctions import wave_signif, wavelet
+from functions import wave_signif, wavelet
 
 __author__ = 'Evgeniya Predybaylo'
 
